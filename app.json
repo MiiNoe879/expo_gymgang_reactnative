@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "GymGang",
+    "slug": "gymgang",
+    "sdkVersion": "21.0.0",
+    "version": "2.2.0",
+    "orientation": "portrait",
+    "icon": "app/assets/icons/1024white.png",
+    "ios": {
+      "bundleIdentifier": "com.gymgang.gymgangApp",
+      "buildNumber": "4"
+    },
+    "android": {
+      "package": "com.bs.gymgang",
+      "versionCode": 3
+    }
+  },
+  "facebookScheme": "fb1913808098860711",
+  "name": "gymgangreact",
+  "displayName": "GymGang"
+}
